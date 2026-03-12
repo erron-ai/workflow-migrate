@@ -32,3 +32,7 @@ python -m unittest discover -s tests -v
 
 ## Status
 This repository is initialized as part of the Erron AI multi-repo launch and is intentionally production-minded while remaining extensible for deeper roadmap features.
+
+## Company and Contact
+- Built and maintained by [Erron AI](https://erron.ai).
+- Contact: [info@erron.ai](mailto:info@erron.ai)
